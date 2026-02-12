@@ -23,8 +23,8 @@ export const restaurantInfo = {
     email: "ochurrasquinhoaguia@gmail.com",
     googleMapsLink: "https://maps.app.goo.gl/aQAcdh5giZGcxeFr7",
     coordinates: {
-      lat: 38.7223,
-      lng: -9.2399,
+      lat: 38.7264728,
+      lng: -9.2410563,
     },
   },
 

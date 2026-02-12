@@ -71,7 +71,7 @@ export default function Contact() {
           <AnimatedSection direction="left">
             <div className="rounded-3xl overflow-hidden shadow-xl h-[400px] lg:h-full min-h-[400px] bg-brand-warm">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3111.9!2d-9.2399!3d38.7223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDQzJzIwLjMiTiA5wrAxNCwyMy42Ilc!5e0!3m2!1spt-PT!2spt!4v1"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d779.7!2d-9.2410563!3d38.7264728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1ecc677c2107e9%3A0xd538c7caaaba9e34!2sO%20Churrasquinho%20%C3%80%20Guia!5e0!3m2!1spt-PT!2spt!4v1"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
