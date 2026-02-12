@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "O Churrasquinho À Guia | Authentic Piri-Piri Chicken in Carnaxide since 1999",
+    "description": "Traditional Portuguese restaurant in Carnaxide, Lisbon. Specialists in charcoal-grilled Piri-Piri Chicken for over 25 years. Honest prices, authentic flavour. Book now!"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "specialties": "Specialties",
+    "testimonials": "Reviews",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "reservation": "Book a Table"
+  },
+  "hero": {
+    "title": "Algarve Tradition in Carnaxide since 1999",
+    "subtitle": "The authentic charcoal-grilled Piri-Piri Chicken. A flavour that has won hearts for over 25 years.",
+    "cta": "Book a Table",
+    "ctaSecondary": "See Specialties",
+    "badge": "5.0 on Google Reviews"
+  },
+  "about": {
+    "title": "25 Years Grilling Tradition",
+    "text1": "Since 1999 in Carnaxide, we have brought the Algarve tradition of authentic Piri-Piri Chicken to Greater Lisbon. For over 25 years, we have maintained the original recipe and charcoal-grilling method that has won over generations of customers.",
+    "text2": "What started as a small family restaurant has become a reference point for those seeking genuine flavours of Portuguese cuisine at honest prices. Our secret? Charcoal, time and passion for what we do.",
+    "stat1": "25+ Years",
+    "stat1desc": "Of tradition",
+    "stat2": "100+ Seats",
+    "stat2desc": "Indoor and terrace",
+    "stat3": "Charcoal Grilled",
+    "stat3desc": "Authentic flavour"
+  },
+  "specialties": {
+    "title": "Our Specialties",
+    "frangoGuia": "Piri-Piri Chicken",
+    "frangoGuiaDesc": "Our star dish. Chicken marinated with the traditional Algarve recipe, slowly grilled over charcoal. Served with spicy piri-piri sauce, chips and salad.",
+    "frangoGuiaPrice": "From €13.50",
+    "frangoGuiaBadge": "House Specialty",
+    "menuTitle": "Daily Menu",
+    "note": "All our dishes are made with love for tradition to ensure authentic flavour."
+  },
+  "menu": {
+    "carnes": "Meats",
+    "peixes": "Fish",
+    "sobremesas": "Desserts",
+    "empty": "Today's menu is being prepared. Please contact us directly.",
+    "lastUpdated": "Last updated"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "testimonial1": "The best piri-piri chicken in the area. Incredibly affordable for what you get. For two portions of piri-piri chicken, 2 beers, 1 Coca-Cola, bread and 2 coffees, I paid €27. Simply outstanding value for today's prices. Charcoal-grilled, full of flavour, perfect piri-piri sauce, fast and efficient service, quiet area with outdoor terrace.",
+    "testimonial2": "Super tasty piri-piri chicken. The service is fast, efficient and very friendly. Great value for money.",
+    "testimonial3": "Everything was very good. 5-star service. Great prices.",
+    "testimonial4": "Part of the gastronomic itinerary. Great chicken, friendly service and relaxed atmosphere.",
+    "testimonial5": "A restaurant with great customer demand, operating in two shifts with excellent attendance, the menu is varied and well served, great prices, an excellent air-conditioned dining room and a nice outdoor seating area.",
+    "testimonial1Date": "8 months ago",
+    "testimonial2Date": "6 months ago",
+    "testimonial3Date": "1 year ago",
+    "testimonial4Date": "4 months ago",
+    "testimonial5Date": "1 year ago"
+  },
+  "gallery": {
+    "title": "Our Space",
+    "interior": "Indoor Dining",
+    "interiorDesc": "Air-conditioned dining room with 80 seats",
+    "esplanada": "Outdoor Terrace",
+    "esplanadaDesc": "Outdoor terrace with 30 seats",
+    "frango": "Piri-Piri Chicken",
+    "frangoDesc": "Our charcoal-grilled Piri-Piri Chicken",
+    "close": "Close"
+  },
+  "contact": {
+    "title": "Hours & Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "hours": "Opening Hours",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "closed": "Closed",
+    "closedDay": "Closed",
+    "openNow": "Open Now",
+    "closedNow": "Closed",
+    "openInMaps": "Open in Google Maps"
+  },
+  "reservation": {
+    "title": "Book Your Table",
+    "subtitle": "Fill in the form and we will confirm your reservation shortly.",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone number",
+    "date": "Reservation date",
+    "time": "Reservation time",
+    "guests": "Number of guests",
+    "guestsSuffix": "guest(s)",
+    "notes": "Notes",
+    "notesPlaceholder": "E.g. food allergies, high chair, etc.",
+    "privacy": "I accept the Privacy Policy",
+    "submit": "Confirm Reservation",
+    "sending": "Sending...",
+    "success": "Reservation sent successfully! We will contact you shortly to confirm.",
+    "error": "An error occurred. Please try again or contact us directly.",
+    "required": "Required field",
+    "invalidEmail": "Invalid email",
+    "invalidPhone": "Invalid phone number",
+    "selectTime": "Select a time"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "madeWith": "Made with",
+    "by": "by"
+  },
+  "whatsapp": {
+    "label": "Book"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: February 2026"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: February 2026"
+  }
+}

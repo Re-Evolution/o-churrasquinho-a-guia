@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "O Churrasquinho À Guia | Frango da Guia Autêntico em Carnaxide desde 1999",
+    "description": "Restaurante tradicional português em Carnaxide. Especialistas em Frango da Guia grelhado no carvão há 25 anos. Preços honestos, sabor autêntico. Reserve já!"
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Nós",
+    "specialties": "Especialidades",
+    "testimonials": "Testemunhos",
+    "gallery": "Galeria",
+    "contact": "Contactos",
+    "reservation": "Reservar Mesa"
+  },
+  "hero": {
+    "title": "Tradição Algarvia em Carnaxide desde 1999",
+    "subtitle": "O autêntico Frango da Guia grelhado no carvão. Sabor que conquista há mais de 25 anos.",
+    "cta": "Reservar Mesa",
+    "ctaSecondary": "Ver Especialidades",
+    "badge": "5.0 no Google Reviews"
+  },
+  "about": {
+    "title": "25 Anos a Grelhar Tradição",
+    "text1": "Desde 1999 em Carnaxide, trouxemos a tradição algarvia do autêntico Frango da Guia para a Grande Lisboa. Durante mais de 25 anos, mantemos a receita original e o método de grelhado a carvão que conquistou gerações de clientes.",
+    "text2": "O que começou como um pequeno restaurante familiar transformou-se num ponto de referência para quem procura sabores genuínos da gastronomia portuguesa a preços honestos. O nosso segredo? Carvão, tempo e paixão pelo que fazemos.",
+    "stat1": "25+ Anos",
+    "stat1desc": "De tradição",
+    "stat2": "100+ Lugares",
+    "stat2desc": "Interior e esplanada",
+    "stat3": "Grelhado no Carvão",
+    "stat3desc": "Sabor autêntico"
+  },
+  "specialties": {
+    "title": "As Nossas Especialidades",
+    "frangoGuia": "Frango da Guia",
+    "frangoGuiaDesc": "O nosso prato estrela. Frango marinado com a receita tradicional do Algarve, grelhado lentamente no carvão. Servido com molho picante à Guia, batata frita e salada.",
+    "frangoGuiaPrice": "A partir de 13,50 €",
+    "frangoGuiaBadge": "Especialidade da Casa",
+    "menuTitle": "Ementa do Dia",
+    "note": "Todos os nossos pratos são feitos com amor pela tradição para garantir o sabor autêntico."
+  },
+  "menu": {
+    "carnes": "Carnes",
+    "peixes": "Peixes",
+    "sobremesas": "Sobremesas",
+    "empty": "A ementa do dia está a ser preparada. Consulte-nos diretamente.",
+    "lastUpdated": "Última atualização"
+  },
+  "testimonials": {
+    "title": "O Que Dizem os Nossos Clientes",
+    "testimonial1": "O melhor frango da guia da zona. Estupidamente barato para o que se come. Por duas doses de frango da guia, 2 imperiais, 1 coca cola, pão e 2 cafés, paguei 27 €. Simplesmente absurdo para o praticado hoje em dia. Grelhado no carvão, com sabor, molho perfeito à guia, atendimento rápido e eficiente, zona calma com esplanada exterior.",
+    "testimonial2": "Frango da guia super saboroso. O atendimento é rápido, eficiente e muito simpático. Boa relação qualidade/preço.",
+    "testimonial3": "Tudo muito bom. Atendimento 5 estrelas. Preço super em conta.",
+    "testimonial4": "Faz parte do roteiro gastronómico. Bom franguinho, simpatia no atendimento e ambiente descontraído.",
+    "testimonial5": "Um restaurante com grande demanda de público, funcionando em dois horários com excelente frequência, o cardápio é variado e bem servido, preços ótimos, um ótimo salão com ar condicionado e uma boa área de atendimento externo.",
+    "testimonial1Date": "há 8 meses",
+    "testimonial2Date": "há 6 meses",
+    "testimonial3Date": "há 1 ano",
+    "testimonial4Date": "há 4 meses",
+    "testimonial5Date": "há 1 ano"
+  },
+  "gallery": {
+    "title": "O Nosso Espaço",
+    "interior": "Sala Interior",
+    "interiorDesc": "Sala climatizada com 80 lugares",
+    "esplanada": "Esplanada",
+    "esplanadaDesc": "Esplanada exterior com 30 lugares",
+    "frango": "Frango da Guia",
+    "frangoDesc": "O nosso Frango da Guia grelhado no carvão",
+    "close": "Fechar"
+  },
+  "contact": {
+    "title": "Horários e Contactos",
+    "address": "Morada",
+    "phone": "Telefone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "hours": "Horários",
+    "monday": "Segunda",
+    "tuesday": "Terça",
+    "wednesday": "Quarta",
+    "thursday": "Quinta",
+    "friday": "Sexta",
+    "saturday": "Sábado",
+    "sunday": "Domingo",
+    "lunch": "Almoço",
+    "dinner": "Jantar",
+    "closed": "Encerrado",
+    "closedDay": "Encerrado",
+    "openNow": "Aberto Agora",
+    "closedNow": "Encerrado",
+    "openInMaps": "Abrir no Google Maps"
+  },
+  "reservation": {
+    "title": "Reserve a Sua Mesa",
+    "subtitle": "Preencha o formulário e confirmaremos a sua reserva brevemente.",
+    "name": "Nome completo",
+    "email": "Email",
+    "phone": "Telefone / Telemóvel",
+    "date": "Data da reserva",
+    "time": "Hora da reserva",
+    "guests": "Número de pessoas",
+    "guestsSuffix": "pessoa(s)",
+    "notes": "Observações",
+    "notesPlaceholder": "Ex: alergias alimentares, cadeira de bebé, etc.",
+    "privacy": "Aceito a Política de Privacidade",
+    "submit": "Confirmar Reserva",
+    "sending": "A enviar...",
+    "success": "Reserva enviada com sucesso! Entraremos em contacto brevemente para confirmar.",
+    "error": "Ocorreu um erro. Por favor tente novamente ou contacte-nos diretamente.",
+    "required": "Campo obrigatório",
+    "invalidEmail": "Email inválido",
+    "invalidPhone": "Número de telefone inválido",
+    "selectTime": "Selecione uma hora"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "madeWith": "Desenvolvido com",
+    "by": "por"
+  },
+  "whatsapp": {
+    "label": "Reservar"
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última atualização: Fevereiro 2026"
+  },
+  "terms": {
+    "title": "Termos de Serviço",
+    "lastUpdated": "Última atualização: Fevereiro 2026"
+  }
+}

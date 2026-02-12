@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-red: #C41E1E;
+  --color-brand-red-dark: #A01818;
+  --color-brand-red-light: #E84444;
+  --color-brand-black: #2A2A2A;
+  --color-brand-black-rich: #0C1B33;
+  --color-brand-brick: #8B4513;
+  --color-brand-brick-light: #A0522D;
+  --color-brand-terracotta: #E8863A;
+  --color-brand-warm: #F5E6D3;
+  --color-brand-warm-light: #FDF8F3;
+  --color-brand-cream: #FFFCF9;
+  --color-whatsapp: #25D366;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-brand-black);
+  background-color: var(--color-brand-cream);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-brand-warm-light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-brand-terracotta);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-brand-brick);
+}
+
+/* Brand gradient: terracotta → red */
+.btn-gradient {
+  background: linear-gradient(135deg, #F0943C 0%, var(--color-brand-red) 100%);
+  transition: all 0.3s ease;
+}
+
+.btn-gradient:hover {
+  background: linear-gradient(135deg, var(--color-brand-terracotta) 0%, var(--color-brand-red-dark) 100%);
+  box-shadow: 0 10px 25px -5px rgba(196, 30, 30, 0.3);
+}
