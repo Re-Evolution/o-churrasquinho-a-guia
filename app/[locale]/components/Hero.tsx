@@ -3,7 +3,6 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { FaStar } from "react-icons/fa";
 
 export default function Hero() {
   const t = useTranslations("hero");
@@ -20,9 +19,9 @@ export default function Hero() {
         src="/images/sala-interior.jpg"
         alt="O Churrasquinho À Guia - Sala Interior"
         fill
-        className="object-cover brightness-75"
+        className="object-cover brightness-100 contrast-110"
         priority
-        quality={85}
+        quality={100}
         sizes="100vw"
       />
       {/* Gradient overlay - lighter, warmer */}
@@ -58,39 +57,33 @@ export default function Hero() {
           </div>
         </motion.div>
 
-        {/* Google Reviews badge */}
-        <motion.div
-          initial={{ opacity: 0, scale: 0.8 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.6, delay: 0.5 }}
-          className="absolute top-28 right-4 sm:top-32 sm:right-8 lg:right-16 bg-white/95 backdrop-blur-sm rounded-2xl px-4 py-3 shadow-xl"
-        >
-          <div className="flex items-center gap-2">
-            <div className="flex text-yellow-400">
-              {[...Array(5)].map((_, i) => (
-                <FaStar key={i} size={14} />
-              ))}
-            </div>
-            <span className="text-sm font-semibold text-brand-black">
-              {t("badge")}
-            </span>
-          </div>
-        </motion.div>
       </div>
 
-      {/* Wave transition */}
+      {/* Brick wave transition */}
       <div className="absolute bottom-0 left-0 right-0">
         <svg
           viewBox="0 0 1440 120"
-          fill="none"
           xmlns="http://www.w3.org/2000/svg"
           className="w-full h-auto block"
           preserveAspectRatio="none"
         >
+          <defs>
+            <pattern
+              id="brick-pattern"
+              width="106"
+              height="68"
+              patternUnits="userSpaceOnUse"
+            >
+              <rect width="100" height="30" fill="var(--color-brand-warm-light)" />
+              <rect x="53" y="34" width="100" height="30" fill="var(--color-brand-warm-light)" />
+              <rect x="-53" y="34" width="100" height="30" fill="var(--color-brand-warm-light)" />
+            </pattern>
+          </defs>
           <path
             d="M0 60C240 20 480 0 720 40C960 80 1200 100 1440 60V120H0V60Z"
-            fill="var(--color-brand-warm-light)"
+            fill="url(#brick-pattern)"
           />
+          <rect y="96" width="1440" height="24" fill="var(--color-brand-warm-light)" />
         </svg>
       </div>
     </section>
